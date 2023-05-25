@@ -1,2 +1,2 @@
-README for ALX Low Level Programming > README.md
+README for ALX Low Level Programming
 
