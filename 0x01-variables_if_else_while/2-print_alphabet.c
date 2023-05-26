@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - Starting point of the code
  * Return: Zero
  */
@@ -11,7 +11,7 @@ int main(void)
 
 	for (i = 0; i < 26; i++)
 	{
-		putchar(aph[26]);
+		putchar(aph[i]);
 	}
 		putchar('\n');
 		return (0);
