@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - Printing alphabets
+ * print_alphabet - Printing alphabets
  * Return: Nothing
  */
 
