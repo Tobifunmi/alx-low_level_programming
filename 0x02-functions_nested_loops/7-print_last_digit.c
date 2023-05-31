@@ -4,12 +4,14 @@
 /**
  * print_last_digit - Printing last digit
  * @n: Digit
- * @l: Last digit
  * Return: Last digit
  */
 
 int print_last_digit(int n)
 {
+	int l;
+
 	l = n % 10;
-	return (l);
+	putchar(l);
+	return (0);
 }
